@@ -134,7 +134,11 @@ Mã môn học: CLCO332779
 
 - Cuối cùng, nhập lệnh `sudo stack/ctlscript.sh restart` để khởi động lại các dịch vụ web trên phiên bản.
 
-## 6. Trỏ tên miền cho ứng dụng
+
+## 6. Thiết lập storage cho wordpress
+
+
+## 7. Trỏ tên miền cho ứng dụng
 
 - Tạo tên miền ở Freenom
 
